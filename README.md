@@ -112,13 +112,13 @@ mcsim/
 |------------|-------------|--------|
 | MeshCore | Mesh networking firmware | Git submodule |
 | ITM | Radio propagation model | https://github.com/NTIA/itm |
-| DEM Data | Terrain elevation data | https://apps.nationalmap.gov/downloader/ |
 
 ### Optional
 
 | Dependency | Description | Source |
 |------------|-------------|--------|
 | Rerun | Real-time visualization | https://github.com/rerun-io/rerun |
+| DEM Data | Terrain elevation data | https://apps.nationalmap.gov/downloader/ |
 
 ## Scripts
 
